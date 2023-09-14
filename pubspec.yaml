@@ -1,7 +1,7 @@
 name: custom_text_test
 description: 커스텀 텍스트 위젯입니다.
 version: 0.0.1
-homepage: 
+homepage: https://github.com/flutter-kim-json/package_sample
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
