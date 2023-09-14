@@ -1,0 +1,10 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tool to assess capabilities and perform upgrades etc.
+#
+# This file should be version controlled and should not be manually edited.
+
+version:
+  revision: bc8c7a0962b63f79dad8ae913ca8fb090a652be9
+  channel: build/3.3.2_cherry_pick_js
+
+project_type: package
